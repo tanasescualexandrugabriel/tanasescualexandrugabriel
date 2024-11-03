@@ -2,7 +2,7 @@
 - 👾 **Gamer** | 🎮 11-year member of the Steam community  
 - 🌱 **Currently Learning**: Full-stack web development, data analysis, and project management  
 - 💡 **Skills & Interests**:
-   - 🖥️ **Web Development**: HTML, CSS, JavaScript, PHP, Bootstrap, SEO, AngularJS
+   - 🖥️ **Web Development**: HTML, CSS, JavaScript, PHP, Bootstrap, SEO
    - 📊 **Data Analysis**: Python, MySQL,
    - 🛠️ **Software Testing**: QA methodologies and tools
    - 🎬 **Video Editing**: Premiere Pro, After Effects, CapCut
