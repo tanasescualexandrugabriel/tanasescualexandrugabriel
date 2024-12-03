@@ -12,7 +12,7 @@
    - 🕹️ **Game Development Projects** in software testing only
    - 🌐 **Web applications** creating responsive websites
    - 🎬 **Creative video editing projects** for social media using games for montages / for marketing
-- 📫 **Reach me via**: [TBD] | [Steam Profile](TBD)
+- 📫 **Reach me via**:  <a href="https://www.tiktok.com/@justfl4sh" class="tiktok-link" target="_blank">TikTok</a> | [Steam Profile](TBD)
 
 - 😄 **Pronouns**: He/Him 
   
