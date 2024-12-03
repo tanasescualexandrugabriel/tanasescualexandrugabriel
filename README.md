@@ -6,7 +6,7 @@
    - 📊 **Data Analysis**: Python, MySQL,
    - 🛠️ **Software Testing**: QA methodologies and tools
    - 🎬 **Video Editing**: Premiere Pro, After Effects, CapCut
-   - 📝 **Project Management**: Agile, Scrum, Jira
+   - 📝 **Project Management**: Agile, Jira
 
 - 💼 **Looking for jobs**:
    - 🕹️ **Game Development Projects** in software testing only
