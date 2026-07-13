@@ -1,16 +1,12 @@
 👋 Hi, I’m @tanasescualexandrugabriel 
-- 👾 **Gamer** | 🎮 11-year member of the Steam community  
 - 🌱 **Currently Learning**: Full-stack web development, data analysis, and project management  
 - 💡 **Skills & Interests**:
-   - 🖥️ **Web Development**: HTML, CSS, JavaScript, PHP, Bootstrap, SEO
-   - 📊 **Data Analysis**: Python, MySQL,
+   - 🖥️ **Web Development**: HTML, CSS, JavaScript  
    - 🛠️ **Software Testing**: QA methodologies and tools
    - 🎬 **Video Editing**: Premiere Pro, After Effects, CapCut
-   - 📝 **Project Management**: Agile, Jira
-
+   
 - 💼 **Looking for jobs**:
-   - 🕹️ **Game Development Projects** in software testing only
-   - 🌐 **Web applications** creating responsive websites
+   - 🌐 **Cybersecurity** analyst, penetration tester, linux security
    - 🎬 **Creative video editing projects** for social media using games for montages / for marketing
 
 - 😄 **Pronouns**: He/Him 
