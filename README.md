@@ -2,6 +2,7 @@
 
 <p align="justify">🧠 I am highly motivated to put my theoretical knowledge into practice; as a team member, I always bring an open mind, steady communication, and a strong willingness to listen, learn, and help my colleagues every day. 🎯 I am actively looking for junior or entry-level roles where I can grow and contribute, being highly interested in positions like 🔒 Junior Cybersecurity Analyst / Penetration Tester, 🛠️ Junior Linux System Administrator / IT Support, 💻 Junior Software Tester / QA, or ✍️ WordPress Editor. 🚀 Ready to learn, adapt, and tackle new challenges. Let's connect!
 </p>
+
 - 🌱 **Currently Learning**: Cybersecurity, linux and networking 
 - 💡 **Skills & Interests**:
    - 🖥️ **Web Development**: HTML, CSS, JavaScript  
